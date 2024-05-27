@@ -1,0 +1,72 @@
+[
+  {
+    "par": "USDCAD",
+    "horario": "08:45",
+    "tipo": "CALL"
+  },
+  {
+    "par": "GBPUSD",
+    "horario": "10:20",
+    "tipo": "CALL"
+  },
+  {
+    "par": "USDCHF",
+    "horario": "11:15",
+    "tipo": "CALL"
+  },
+  {
+    "par": "USDJPY",
+    "horario": "11:30",
+    "tipo": "CALL"
+  },
+  {
+    "par": "AUDUSD",
+    "horario": "11:45",
+    "tipo": "CALL"
+  },
+  {
+    "par": "AUDCAD",
+    "horario": "11:45",
+    "tipo": "CALL"
+  },
+  {
+    "par": "EURJPY",
+    "horario": "11:55",
+    "tipo": "CALL"
+  },
+  {
+    "par": "USDJPY",
+    "horario": "12:05",
+    "tipo": "CALL"
+  },
+  {
+    "par": "EURJPY",
+    "horario": "12:30",
+    "tipo": "CALL"
+  },
+  {
+    "par": "AUDUSD",
+    "horario": "13:15",
+    "tipo": "CALL"
+  },
+  {
+    "par": "AUDCAD",
+    "horario": "13:15",
+    "tipo": "CALL"
+  },
+  {
+    "par": "USDJPY",
+    "horario": "13:25",
+    "tipo": "CALL"
+  },
+  {
+    "par": "USDJPY",
+    "horario": "13:30",
+    "tipo": "CALL"
+  },
+  {
+    "par": "EURUSD",
+    "horario": "14:55",
+    "tipo": "CALL"
+  }
+]
