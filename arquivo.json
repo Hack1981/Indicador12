@@ -1,9 +1,18 @@
-{
-    "sinais": [
-        "M1;USDJPY;13:30;CALL",
-        "M1;EURUSD;14:55;CALL",
-        "M1;USDJPY;19:45;CALL",
-        "M1;EURUSD;19:46;CALL",
-        "M1;USDJPY;13:30;CALL"
-    ]
-}
+[
+    {
+        "hora": "13:30",
+        "texto": "M1;USDJPY;CALL"
+    },
+    {
+        "hora": "14:55",
+        "texto": "M1;EURUSD;CALL"
+    },
+    {
+        "hora": "19:45",
+        "texto": "M1;USDJPY;CALL"
+    },
+    {
+        "hora": "19:46",
+        "texto": "M1;EURUSD;CALL"
+    }
+]
