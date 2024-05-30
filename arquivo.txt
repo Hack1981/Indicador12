@@ -1,0 +1,5 @@
+EURUSD;Compra;09:30
+GBPUSD;Venda;10:15
+AUDUSD;Compra;11:00
+...
+FimTxt
