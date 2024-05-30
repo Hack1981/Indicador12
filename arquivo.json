@@ -1,18 +1,6 @@
-[
-    {
-        "hora": "13:30",
-        "texto": "M1;USDJPY;CALL"
-    },
-    {
-        "hora": "14:55",
-        "texto": "M1;EURUSD;CALL"
-    },
-    {
-        "hora": "19:45",
-        "texto": "M1;USDJPY;CALL"
-    },
-    {
-        "hora": "19:46",
-        "texto": "M1;EURUSD;CALL"
-    }
-]
+{
+  "mensagens": [
+    "M5;USDJPY;13:30;CALL",
+    "M5;EURUSD;14:55;CALL"
+  ]
+}
